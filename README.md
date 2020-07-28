@@ -11,7 +11,9 @@ A Beginner-level cryptocurrency for educational purposes built with Typescript.
 
 ## Usage
 
-You can either use [Postman](https://www.postman.com/) or [curl](https://curl.haxx.se/) for creating http requests to the server. I am using <b>curl</b> and here is the API of Beatcoin:
+You can either use [Postman](https://www.postman.com/) or [curl](https://curl.haxx.se/) for creating HTTP requests to the server. I am using <b>curl</b> and here is the API of Beatcoin:
+
+* Note that <b>Postman</b> has a pretty display of JSON data which can be easier for you to follow HTTP responses.
 
 ##### Get blockchain
 
