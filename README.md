@@ -68,3 +68,7 @@ curl -H "Content-type:application/json" --data '{"peer" : "ws://localhost:6001"}
 ```bash
 curl http://localhost:3001/peers
 ```
+
+#### References
+
+https://lhartikk.github.io/
